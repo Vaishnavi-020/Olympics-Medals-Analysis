@@ -47,15 +47,11 @@ Total Rows: After cleaning, all valid non-empty rows were used.(15433)
 ---
 
 # 🔧 Data Cleaning Steps
-- Removed fully empty rows
+- Checked for nulls
 
-- Handled missing values
+- Checked the total rows and columns after cleaning
 
 - Converted Year to integer
-
-- Standardized column formats
-
-- Removed duplicate athlete/sport/medal entries where required
 
 This ensured the dataset was consistent for analysis.
 
